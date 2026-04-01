@@ -1,0 +1,6 @@
+Brief introduction about myself
+**Presentation: About Me**
+
+My name is Janice, and I am a student at ALX. I am a focused and curious learner with a strong interest in technology and analytical subjects such as statistics, programming, and software development. I enjoy understanding how things work, which is why I often approach problems step by step to fully grasp concepts rather than just memorizing them. I am particularly interested in building practical skills that can be applied in real-world situations, especially in areas like cloud engineering and backend development.
+
+Beyond academics, I like to explore a variety of topics, including language, communication, and everyday life concepts. This helps me stay balanced and well-rounded. I value clarity and simplicity in how I learn and communicate, and I am always open to discovering new ideas. Overall, I am steadily building my knowledge and skills with purpose, aiming to grow and succeed in the tech field.
